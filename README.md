@@ -4,4 +4,12 @@ Sometimes, I can’t find an appropriate tool to perform a simple task that is p
 ***
 
 ## backlash
-Receives a string and outputs it with all backslashes duplicated. For example, `backlash C:\Windows\Fonts` outputs `C:\\Windows\\Fonts`.
+Receives a string and outputs it with all backslashes duplicated.
+
+
+
+**Usage sample**
+```
+C:\Windows\system32>backlash %cd%
+C:\\Windows\\system32
+```
