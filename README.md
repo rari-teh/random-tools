@@ -13,3 +13,8 @@ Receives a string and outputs it with all backslashes duplicated.
 C:\Windows\system32>backlash %cd%
 C:\\Windows\\system32
 ```
+
+***
+
+## jpsxdec-xaanarchy
+[jPSXdec](https://github.com/m35/jpsxdec) but it replaces XA streams even if they are incompatible. Headphone users beware.
